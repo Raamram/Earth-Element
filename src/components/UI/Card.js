@@ -1,3 +1,4 @@
+// Example for Composition concept.
 import './Card.css';
 
 const Card = (props) => {
